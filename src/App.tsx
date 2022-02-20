@@ -1,6 +1,12 @@
+import LandingPage from "./pages/LandingPage/"
+import { GlobalStyle } from "./assets/style/style"
+
 const App = () => {
   return(
-    <h1>ConsultCep</h1>
+    <>
+      <GlobalStyle />
+      <LandingPage />
+    </>
   );
 }
 
