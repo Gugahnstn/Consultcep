@@ -1,5 +1,5 @@
 <script>
-  import Man_With_Phone from 'images/undraw_address_re_yaoj1.svg';
+  import Man_With_Phone from '/images/undraw_address_re_yaoj1.svg';
 </script>
 
 <section>
