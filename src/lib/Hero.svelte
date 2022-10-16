@@ -1,5 +1,5 @@
 <script>
-  import Man_With_Phone from '/public/images/undraw_address_re_yaoj 1.svg'
+  import Man_With_Phone from '/public/images/undraw_address_re_yaoj 1.svg';
 </script>
 
 <section>
@@ -16,7 +16,7 @@
   section {
     font-family: var(--font-poppins);
     align-items: flex-end;
-    margin-top: 2rem;
+    margin-top: 4rem;
     display: flex;
     color: #fff;
   }
