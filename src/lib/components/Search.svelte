@@ -1,5 +1,8 @@
 <script>
-  const placeholder = ["oi", "olá"]
+  const placeholder = [
+    "Digite o código da mercadoria.", 
+    "Digite Nome do endereço ou o código postal."
+  ]
 </script>
 
 <form class="form">
